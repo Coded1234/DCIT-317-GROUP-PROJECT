@@ -1,4 +1,4 @@
-open vscode and clone repository from github using this link https://github.com/Coded1234/DCIT-317-GROUP-PROJECT/new/master
+open vscode and clone repository from github using this link https://github.com/Coded1234/DCIT-317-GROUP-PROJECT/new/master or download zip folder
 select “c:/xampp/htdocs/” as the repository destination
 Now open the xampp server and run the appache and mysql modules
 Go To “localhost/phpmyadmin” in any browser and create Database and name it "shoe"
